@@ -1,0 +1,2 @@
+ALTER TABLE ErrorLogs DROP COLUMN Info;
+DROP TABLE Testing;
